@@ -1,3 +1,7 @@
+# Notice
+
+This is a fork from the original repo by ski-freak so this version stays available in an [Openplanet plugin](https://github.com/vst2m/ItemManager/tree/main).
+
 # TrackmaniaItemsSorted
 
 The complete sorted item set of all the important custom items for trackmania mapping, most of which are from item exchange.
