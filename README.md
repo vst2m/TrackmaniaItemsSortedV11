@@ -1,6 +1,6 @@
 # Notice
 
-This is a fork from the original repo by ski-freak so this version stays available in an [Openplanet plugin](https://github.com/vst2m/ItemManager/tree/main).
+This is a fork from the [original repo](https://github.com/ski-freak/TrackmaniaItemsSorted) by ski-freak so this version stays available in an [Openplanet plugin](https://github.com/vst2m/ItemManager/tree/main).
 
 # TrackmaniaItemsSorted
 
